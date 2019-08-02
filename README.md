@@ -1,10 +1,14 @@
+# 2017
+
+- Bringing DevSecOps to ICS - https://www.youtube.com/watch?v=mPx6CH3fJHI&
+
 
 # 2011
 - Digital Bond Podcast on DoD Smart Grid Deployments (with Gerry Gallagher) 
 
 
 # 2010
-- Advanced Metering Implementations: Addressing Security in DoD Applications
+- Advanced Metering Implementations: Addressing Security in DoD Applications (with Pete Virag)
 - A Maze of Tiny Fuzzers All Alike
 
 # 2009
@@ -35,6 +39,7 @@
 # 2003
 - Separating Fact from FUD: BGP Vulnerability Testing (BlackHat and NANOG)
 - Vulnerability Testing of Industrial Network Devices
+- Integrating IT and Control System Security: A Vendor-Researcher PerspectivE
 
 # 2001
 - How Secure is Secure: Threat-Oriented Product Testing (Cansecwest)
