@@ -32,9 +32,8 @@
 - Uncovering Cyber Flaws
 
 # 2004
-
-- ModbusFW: Deep Packet Inspection for Industrial Ethernet
-- Protocol Implementation Testing: Challenges & Opportunities
+- ModbusFW: Deep Packet Inspection for Industrial Ethernet (NISCC) 
+- Protocol Implementation Testing: Challenges & Opportunities (NISCC)
 
 # 2003
 - Separating Fact from FUD: BGP Vulnerability Testing (BlackHat and NANOG)
