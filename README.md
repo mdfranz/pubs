@@ -1,14 +1,13 @@
+Papers and Presentations
+
 # 2019
 - Hiring on Pragmatic Ops Weekly Podcast - https://player.fm/series/pragmatic-ops-weekly/episode-20-hiring-with-matt-franz
 
 # 2017
-
 - Bringing DevSecOps to ICS - https://www.youtube.com/watch?v=mPx6CH3fJHI&
-
 
 # 2011
 - Digital Bond Podcast on DoD Smart Grid Deployments (with Gerry Gallagher) 
-
 
 # 2010
 - Advanced Metering Implementations: Addressing Security in DoD Applications (with Pete Virag)
@@ -19,7 +18,6 @@
 - Final Exam for CIS170 at Frederick Community College - students did great!
 
 # 2007
-
 - OPC Security Whitepaper - this was the deliverable for a sponsored research project and is available on the Digital Bond subscriber website.
 - ICCP Exposed - conference paper/presentation on ICCP (and OSI) protocol security at the first S4.
 
@@ -38,6 +36,7 @@
 # 2004
 - ModbusFW: Deep Packet Inspection for Industrial Ethernet (NISCC) 
 - Protocol Implementation Testing: Challenges & Opportunities (NISCC)
+- ISA SP99 Panel - https://www.businesswire.com/news/home/20040326005280/en/Industry-Panel-Discusses-Manufacturing-Control-Systems-Security
 
 # 2003
 - Separating Fact from FUD: BGP Vulnerability Testing (BlackHat and NANOG)
