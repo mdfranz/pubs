@@ -23,6 +23,7 @@ Papers and Presentations
 - ICCP Exposed - conference paper/presentation on ICCP (and OSI) protocol security at the first S4.
 
 # 2006
+- Tenable SCADA Plugins - https://www.businesswire.com/news/home/20060801005188/en/Tenable-Digital-Bond-Add-SCADA-Plugins-Nessus
 - LiveData ICCP Heap Overflow - https://www.kb.cert.org/vuls/id/190617/
 - A Rough Start of a Toolset for Assessing J2EE Apps (Austin OWASP Meeting, June 2006)
 - The Challenge of an Open Source Testing Framework for Control Systems (PCSF, SPring 2006)
