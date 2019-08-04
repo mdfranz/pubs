@@ -13,6 +13,7 @@
 # 2010
 - Advanced Metering Implementations: Addressing Security in DoD Applications (with Pete Virag)
 - A Maze of Tiny Fuzzers All Alike
+- RSA Panel Session on Smart Meter Security - https://www.wired.com/2010/03/smart-grids-done-smartly/
 
 # 2009
 - Final Exam for CIS170 at Frederick Community College - students did great!
