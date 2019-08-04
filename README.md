@@ -1,3 +1,6 @@
+# 2019
+- Hiring on Pragmatic Ops Weekly Podcast - https://player.fm/series/pragmatic-ops-weekly/episode-20-hiring-with-matt-franz
+
 # 2017
 
 - Bringing DevSecOps to ICS - https://www.youtube.com/watch?v=mPx6CH3fJHI&
