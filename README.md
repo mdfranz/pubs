@@ -18,14 +18,15 @@ Papers and Presentations
 - Final Exam for CIS170 at Frederick Community College - students did great!
 
 # 2007
+- Sisco OSI Stack Vulnerability - https://www.kb.cert.org/vuls/id/145825/
 - OPC Security Whitepaper - this was the deliverable for a sponsored research project and is available on the Digital Bond subscriber website.
 - ICCP Exposed - conference paper/presentation on ICCP (and OSI) protocol security at the first S4.
 
 # 2006
-
+- LiveData ICCP Heap Overflow - https://www.kb.cert.org/vuls/id/190617/
 - A Rough Start of a Toolset for Assessing J2EE Apps (Austin OWASP Meeting, June 2006)
 - The Challenge of an Open Source Testing Framework for Control Systems (PCSF, SPring 2006)
-- SCADA Vulnerability Discovery and Disclosure - PCSF, Spring 2006
+- SCADA Vulnerability Discovery and Disclosure - PCSF, Spring 2006 - also see https://www.theregister.co.uk/2006/06/19/scada_flaw_debate/ and https://www.securityfocus.com/news/11396
 
 # 2005
 - The Use of Attack Trees in Assessing SCADA Protocols
