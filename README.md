@@ -11,7 +11,7 @@ Papers and Presentations
 
 # 2010
 - Advanced Metering Implementations: Addressing Security in DoD Applications (with Pete Virag)
-- A Maze of Tiny Fuzzers All Alike
+- A Maze of Tiny Fuzzers All Alike (CERT Vulnerability Disclosure Workshop) - https://resources.sei.cmu.edu/asset_files/Presentation/2010_017_001_53935.pdf
 - RSA Panel Session on Smart Meter Security - https://www.wired.com/2010/03/smart-grids-done-smartly/
 
 # 2009
