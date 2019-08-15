@@ -43,5 +43,13 @@ Papers and Presentations
 - Vulnerability Testing of Industrial Network Devices
 - Integrating IT and Control System Security: A Vendor-Researcher Perspective
 
+# 2002 
+- https://www.infoworld.com/article/2668545/secure-it-with-linux.html - Trinux was mentioned here.
+
 # 2001
 - How Secure is Secure: Threat-Oriented Product Testing (Cansecwest01)
+- https://www.sans.org/reading-room/whitepapers/unix/paper/327 - paper on Trinux someone else wrote (the original Linux security testing distro)
+
+# 1998
+- I launched http://trinux.sourceforge.net/legacy/ - the first security-oriented Linux distribution (before Knoppix, before Kali, there was Trinux!)
+
