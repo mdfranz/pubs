@@ -1,4 +1,5 @@
 Papers and Presentations
+# [Cloud Native Infrastructure with Azure: Building and Managing Cloud Native Applications](https://www.amazon.com/Cloud-Native-Infrastructure-Azure-Applications/dp/1492090964/) - I learned writing a book during a pandemic was not great, but I did write the chapter and developer exercises in the chapter on messaging.
 
 # 2019
 - Hiring on Pragmatic Ops Weekly Podcast - https://player.fm/series/pragmatic-ops-weekly/episode-20-hiring-with-matt-franz
