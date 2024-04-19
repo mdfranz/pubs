@@ -1,6 +1,8 @@
 # Papers, Presentations, and Open Source Projects
 
-I don't get out very much these days like in the 00's but these are some areas where written or spoken.
+
+## 2024
+- [From DevOps to LLM Ops: Generative AI for Infra Engineers](devops-to-llmops-april-2024.pdf) at [DevOps Columbia](https://www.meetup.com/devops-columbia/)
 
 ## 2022
 - [Cloud Native Infrastructure with Azure: Building and Managing Cloud Native Applications](https://www.amazon.com/Cloud-Native-Infrastructure-Azure-Applications/dp/1492090964/) - I learned writing a book during a pandemic was not great, but I did write the chapter and developer exercises in the chapter on messaging.
