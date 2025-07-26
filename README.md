@@ -1,5 +1,7 @@
 # Papers, Presentations, and Open Source Projects
 
+## 2025
+- [Beyond the Burner: Practical Digital Security & Privacy for Organizers](https://github.com/mdfranz/pubs/blob/master/Beyond-the-Burner-MD-Convening-July-26-2025-Final.pdf) - Maryland Indivisible Convening
 
 ## 2024
 - [From DevOps to LLM Ops: Generative AI for Infra Engineers](devops-to-llmops-april-2024.pdf) at [DevOps Columbia](https://www.meetup.com/devops-columbia/)
