@@ -1,5 +1,8 @@
 # Papers, Presentations, and Open Source Projects
 
+## 2026
+- [Agentic Security Operations: Machine Speed Rsponse and the Fog of Cyberwar](./agentic-secops.md)
+
 ## 2025
 - [Beyond the Burner: Practical Digital Security & Privacy for Organizers](https://github.com/mdfranz/pubs/blob/master/Beyond-the-Burner-MD-Convening-July-26-2025-Final.pdf) - Maryland Indivisible Convening
 
@@ -61,4 +64,3 @@
 
 ## 1998
 - I launched http://trinux.sourceforge.net/legacy/ - the first security-oriented Linux distribution (before Knoppix, before Kali, there was Trinux!)
-
