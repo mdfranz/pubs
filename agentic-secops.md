@@ -8,6 +8,15 @@
 
 # AI Tools
 
+## Malware
+- [GTIG AI Threat Tracker: Advances in Threat Actor Usage of AI Tools](https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools) - Nov '2025
+- [AI-Generated Malware in Panda Image Hides Persistent Linux Threat](https://www.aquasec.com/blog/ai-generated-malware-in-panda-image-hides-persistent-linux-threat/)
+- [BlackMamba ChatGPT Polymorphic Malware | A Case of Scareware or a Wake-up Call for Cyber Security?](https://www.sentinelone.com/blog/blackmamba-chatgpt-polymorphic-malware-a-case-of-scareware-or-a-wake-up-call-for-cyber-security/)
+### FunkSec
+- [FunkSec’s FunkLocker: How AI Is Powering the Next Wave of Ransomware](https://medium.com/@anyrun/funksecs-funklocker-how-ai-is-powering-the-next-wave-of-ransomware-99130f54c34c) - Oct '25
+- [FunkLocker](https://www.sentinelone.com/anthology/funklocker/)
+- [FunkSec – Alleged Top Ransomware Group Powered by AI](https://research.checkpoint.com/2025/funksec-alleged-top-ransomware-group-powered-by-ai/)
+
 ## Offense
 
 ## Defense
