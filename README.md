@@ -1,6 +1,7 @@
 # Papers, Presentations, and Open Source Projects
 
 ## 2026
+- [Leveraging AI for Advanced Cyber Defense](https://events.techinmotion.com/ai-cyber-defense-2026) - [video](https://www.youtube.com/watch?v=YsQvAeBC1J0)
 - [Agentic Security Operations: Machine Speed Rsponse and the Fog of Cyberwar](./agentic-secops.md)
 
 ## 2025
