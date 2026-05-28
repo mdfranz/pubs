@@ -8,6 +8,8 @@ Welcome to my personal publications repository. This project serves as an archiv
 
 My work spans several areas of information security, with a strong focus on **Industrial Control Systems (ICS/SCADA) Security**, **Vulnerability Discovery**, **Protocol Security**, and **Agentic Security Operations**.
 
+Also see my blogs over the years: at [blog.mdfranz.com](https://blog.mdfranz.com/) [medium.com/@mdfranz](https://medium.com/@mdfranz) and [substack](https://matthewfranz.substack.com/) and [seclectech.wordpress.com](https://seclectech.wordpress.com/)
+
 ---
 
 ## 🌟 Key Highlights
