@@ -11,7 +11,7 @@ My work spans several areas of information security, with a strong focus on **In
 ## 🌟 Key Highlights
 
 *   **[Agentic Security Operations (2026)](#2026):** Currently researching the intersection of Generative AI, LLMs, and autonomous agents in modern cyber defense and incident response.
-*   **[SCADA & ICS Protocol Security (2003–2006)](#2003--2006):** Pioneered early research on industrial protocols (Modbus, ICCP), threat modeling via attack trees, and co-developed the initial Nessus SCADA assessment plugins in partnership with Tenable.
+*   **[SCADA & ICS Protocol Security (2003–2006)](#2003–2006):** Pioneered early research on industrial protocols (Modbus, ICCP), threat modeling via attack trees, and co-developed the initial Nessus SCADA assessment plugins in partnership with Tenable.
 *   **[Trinux (1998)](#1998):** Developed and launched the first security-oriented Linux distribution, pioneering the concept of ramdisk-based live security environments (precursor to modern toolsets like Kali Linux).
 
 ---
@@ -35,7 +35,7 @@ My work spans several areas of information security, with a strong focus on **In
 *   **[Hiring on Pragmatic Ops Weekly Podcast](https://player.fm/series/pragmatic-ops-weekly/episode-20-hiring-with-matt-franz)** — Interview on recruiting and hiring practices for operations teams.
 
 ### 2017
-*   **[Bringing DevSecOps to ICS](https://www.youtube.com/watch?v=mPx6CH3fJHI&)** — Video presentation on applying DevSecOps paradigms to Industrial Control Systems.
+*   **[Bringing DevSecOps to ICS](https://www.youtube.com/watch?v=mPx6CH3fHHI&)** — Video presentation on applying DevSecOps paradigms to Industrial Control Systems.
 
 ### 2011
 *   **Digital Bond Podcast on DoD Smart Grid Deployments** — Discussion with Gerry Gallagher on smart grid security in military installations.
@@ -44,7 +44,6 @@ My work spans several areas of information security, with a strong focus on **In
 *   **[Advanced Metering Implementations: Addressing Security in DoD Applications](./virag-franz-ami-dod.pdf)** — Co-authored paper with Pete Virag.
 *   **[A Maze of Tiny Fuzzers All Alike](./franz-fuzzing-maze-cert-2010.pdf)** — Presentation on vulnerability discovery at the CERT Vulnerability Disclosure Workshop. [View SEI Library Link](https://resources.sei.cmu.edu/asset_files/Presentation/2010_017_001_53935.pdf).
 *   **[RSA Panel Session on Smart Meter Security](https://www.wired.com/2010/03/smart-grids-done-smartly/)** — Panel on smart grid vulnerabilities covered by Wired Magazine.
-
 ### 2009
 *   **[Final Exam for CIS170 (Security Fundamentals)](./cis170_spring2009_final.pdf)** — Prepared for Frederick Community College.
 
