@@ -39,7 +39,7 @@ Also see my blogs over the years: at [blog.mdfranz.com](https://blog.mdfranz.com
 *   **[Hiring on Pragmatic Ops Weekly Podcast](https://player.fm/series/pragmatic-ops-weekly/episode-20-hiring-with-matt-franz)** — Interview on recruiting and hiring practices for operations teams.
 
 ### 2017
-*   **[Bringing DevSecOps to ICS](https://www.youtube.com/watch?v=mPx6CH3fHHI&)** — Video presentation on applying DevSecOps paradigms to Industrial Control Systems.
+*   **[Bringing DevSecOps to ICS](https://www.youtube.com/watch?v=mPx6CH3fHHI&)** — Video presentation on applying DevSecOps paradigms to Industrial Control Systems and the 2017 [S4](https://s4xevents.com/)
 
 ### 2011
 *   **Digital Bond Podcast on DoD Smart Grid Deployments** — Discussion with Gerry Gallagher on smart grid security in military installations.
