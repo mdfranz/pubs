@@ -1,6 +1,8 @@
 # Matthew Franz — Publications, Presentations, & Open Source Projects
 
-<img src="./panel.png" width="50%" alt="Panel">
+<p align="center">
+  <img src="./panel.png" width="50%" alt="Panel">
+</p>
 
 Welcome to my personal publications repository. This project serves as an archive of papers, articles, slide decks, and open-source tools I have authored, co-authored, or contributed to since 1998.
 
