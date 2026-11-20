@@ -23,7 +23,8 @@ Also see my blogs over the years: at [blog.mdfranz.com](https://blog.mdfranz.com
 ## 📚 Publications & Presentations
 
 ### 2026
-*   **[Build Custom MCP Servers to Arm Your Threat Hunting Agents](https://github.com/mdfranz/mcp-threat-hunt-aug-2026)**
+*   **[Agentic AI Risk & Governance](https://events.techinmotion.com/agentic-ai-risk-governance)** — Tech in Motion event on governing risk in agentic AI systems, November 19, 2026. [Watch the video](https://youtu.be/O6LxspqzB-c) (The Agentic AI Risk Gap: From Autonomy to Accountability).
+*   **[Build Custom MCP Servers to Arm Your Threat Hunting Agents](https://github.com/mdfranz/mcp-threat-hunt-aug-2026)** — Summit talk, August 14, 2026. [Event page](https://www.antisyphontraining.com/event/summit-talk-build-custom-mcp-servers-to-arm-your-threat-hunting-agents/).
 *   **[Leveraging AI for Advanced Cyber Defense](https://events.techinmotion.com/ai-cyber-defense-2026)** — Panel presentation at Tech in Motion. [Watch the video](https://www.youtube.com/watch?v=YsQvAeBC1J0).
 *   **[Agentic Security Operations: Machine Speed Response and the Fog of Cyberwar](./agentic-secops.md)** — Comprehensive references on autonomous security operations. [Download Slides (PDF)](./agentic-secops-bespin-jan-26.pdf).
 
